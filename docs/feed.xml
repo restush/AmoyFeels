@@ -1,0 +1,72 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>restush.github.io/AmoyFeels/</id>
+  <title>Chirpy</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2023-06-05T05:25:43+07:00</updated>
+  <author>
+    <name>Restu Syibul Huda</name>
+    <uri>restush.github.io/AmoyFeels/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="restush.github.io/AmoyFeels/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="restush.github.io/AmoyFeels/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Restu Syibul Huda </rights>
+  <icon>/AmoyFeels/assets/img/favicons/favicon.ico</icon>
+  <logo>/AmoyFeels/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Writing a New Post</title>
+    <link href="restush.github.io/AmoyFeels/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
+    <published>2023-06-05T05:00:00+07:00</published>
+  
+    <updated>2023-06-05T05:00:00+07:00</updated>
+  
+    <id>restush.github.io/AmoyFeels/posts/write-a-new-post/</id>
+    <content src="restush.github.io/AmoyFeels/posts/write-a-new-post/" />
+    <author>
+      <name>restu</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.
+
+Test Csharp
+Here is my codes.
+    private void SetActiveBulletCard(bool  active)
+    {
+        _bulletCard.SetActive(active);
+        _virtualCamBullet.SetActive(active);
+    }
+
+
+Naming and Path
+
+Create a new f...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
