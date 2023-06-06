@@ -1,6 +1,6 @@
 ---
 title: I Got It!
-date: 2023-06-05 07:07:56
+date: 2023-06-05 07:07:56 +0700
 author: Amoy
 categories: [Blogging, Daily Blog]
 tags: [writing]

@@ -21,7 +21,7 @@ future: true
 
 title: Amoy Feels # the main title
 
-tagline: A Game Studio # it will display as the sub-title
+tagline: A Game Studio <br>Work Less, Play More # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Work less, Play More.
@@ -38,8 +38,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Restu Syibul Huda
-  email: restush@amoyfeels.com # change to your email address
+  name: Amoy Feels
+  email: contact@amoyfeels.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/restush # change to your twitter homepage
@@ -198,3 +198,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
