@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: 
+baseurl:
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -81,7 +81,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/commons/IMG_20171122_0336a10-modified.png'
+avatar: "/assets/commons/IMG_20171122_0336a10-modified.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -179,6 +179,9 @@ compress_html:
   ignore:
     envs: [development]
 
+include:
+  - app-ads.txt
+
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -198,4 +201,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
